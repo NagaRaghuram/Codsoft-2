@@ -12,9 +12,7 @@ A classic Tic-Tac-Toe game implemented in [insert programming language or framew
 - [Game Rules](#game-rules)
 - [Example Gameplay](#example-gameplay)
 - [Customization](#customization)
-- [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Description
 
